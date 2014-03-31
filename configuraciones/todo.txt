@@ -1,0 +1,138 @@
+mass builder 
+	> Proyectos:
+		- Domains
+			- Config
+				- Push Adsense Blogger theme.
+				- Push Facebook Viral tools scripts.
+				- Push .............................
+			- Entries
+				- Push to blogger.			(massive)
+				- Regresh from blogger.			(massive)			DONE!!!
+				- Boost SEO blogger entry.		(individual)
+					- Tidy entry			(individual)			DONE!!!
+				- Worl Wide Media
+					- Convert entry to pdf		(individual)
+					- Convert entry to html file	(individual)
+					- Convert entry to mp4		(individual)
+					- Convert entry to ppt		(individual)
+				- Adsense optimizer entry.		(individual)
+				- Push as note to fb fan page/group	(individual)
+			- Translations
+				- Translate from blogger to xml.	(massive)			DONE!!!			
+			- Backups
+				- Backup blogger as XML.		(massive)			DONE!!!
+			- Tools (jobs) , feature: autoPost: will post with random time,only rows with OK status.
+				- Facebook Group to Blogger. 		(massive)			DONE!!!
+				- Facebook Page to Blogger.		(massive)
+				- Youtube video to Blogger.		(individual)
+				- Rss to Blogger.			(massive)
+				- Amazon to FB fan page.		(massive)
+
+
+
+
+
+
+SEO:
+- 500 words minimun.
+- the title of a page;
+- meta description;
+- H1 and H2 tags;
+- Alt tags;
+- Anchor text of both internal and external links;
+- Bold and italic text;
+- beginning of the body text;
+- overall text.
+
+
+
+
+SEO ANALIZAER
+Filter text
+Split into words
+Remove 2 character words and stopwords
+Determine word frequency + density
+Determine word prominence
+Determine word containers
+Title
+Meta description
+URL
+Headings
+Meta keywords
+Calculate keyword value
+
+
+
+
+
+
+
+
+
+mass builder ( basado en xml ):
+
+
+Sitios (dominios)
+	- backup del sitio-> API: blogger_backup(sitedomain)
+	- Traduciones-> API: blogger_translate(sitedomain,idioma_nuevo)
+
+
+ENTRADAS:
+	- Opciones generales:
+		- Actualizar entradas.	-> API: blogger_getEntries(site)
+		- Obtener entradas.	-> API: blogger_getEntries(sitei)
+	- Opciones por entrada:
+		- crear ppt
+		- crear pdf
+		- crear mp4
+		- crear imagen
+
+Otros:
+Registro de traduciones
+Registro de backups
+Registro de entradas
+
+
+======= POSIBILIDADES ======= 
+- A nivel de dominio:
+ 	- Genera un backup del sitio completo en xml.
+ 	- Convierte el sitio completo a otro idioma.
+ 	- Duplica el sitio remplazando palabras claves. eg:source: venta de *autos* -> venta de *casas*
+ 	
+- A nivel de entradas/paginas:			 
+ 	- Importacion:				 
+  		- Importa contenido de feeds xml (sin autentificacion). 
+ 		- Importa contenido de wordpress (con/sin autentificacion).
+ 		- Importa contenido de blogger   (con/sin autentificacion).
+ 		- Importa contenido de Youtube. 
+ 	- Exportacion:
+ 		- Exporta entradas a wordpress.
+ 		- Exporta entradas a blogger.
+ 		- Convierte y exporta en formato para Youtube 	 (mp4)
+ 		- Convierte y exporta en formato para Sildeshare (ppt)
+ 		- Convierte y exporta en formato para scrib 	 (pdf)
+ 		- Convierte y exporta en formato para imageshack (png)
+ 
+======= Proximas Features ======= 
+- Ganancias de adsense por entrada/pagina
+- 
+-  
+- 
+
+________________________________________________________________________________________________________________
+======= To Do ======= 
+MONITIZE API
+- Get domains for blogger api.
+- 
+
+
+
+GET POST FROM BLOGGER
+
+
+
+Convertir FB GROUP  A blogger. 
+Convertir FB Page a Blogger.
+
+
+

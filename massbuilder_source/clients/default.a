@@ -1,0 +1,9 @@
+[basic]
+brand=Computer Society Admin Suite
+logo=logo.png
+max=1
+u=root
+d=massbuilder
+cdn=http://localhost/massbuilder/massbuilder_source/
+cdn2="../cdn/c/"
+cdn3=http://localhost/massbuilder/massbuilder_source/

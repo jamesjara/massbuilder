@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<configuration date="2013/06/05" author="e.World Technology Ltd.">
+<project id="{3554BCCA-7E88-4E52-9661-DF55D75275C9}" file="D:\DevZone\webs\comerciales\massbuilder\configuraciones\builder_proyect.pmp" name="massbuilder" product="PHPMaker" version="9.0" datetime="2013/06/05 06:54:42" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109">
+<table id="domains" name="domains" caption="Sites" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,105" priv="1"/>
+<table id="entries" name="entries" caption="Entries" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="tools_translation" name="tools_translation" caption="Translations" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,104" priv="1"/>
+<table id="tools_backups" name="tools_backups" caption="Backups" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,104" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,0" priv="1"/>
+<table id="users" name="users" caption="Users" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,0" priv="1"/>
+<table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="userlevels" name="userlevels" caption="userlevels" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="proyectos" name="proyectos" caption="proyectos" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="mapings" name="mapings" caption="mapings" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="tools" name="tools" caption="tools" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="fb_group_entries" name="fb_group_entries" caption="fb group entries" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+<table id="logs" name="logs" caption="logs" userlevel="0,&quot;Default&quot;,0;1,&quot;Escritor&quot;,109" priv="1"/>
+</project></configuration>

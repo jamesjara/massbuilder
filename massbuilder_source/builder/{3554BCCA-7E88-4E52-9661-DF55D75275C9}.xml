@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<configuration date="2012/12/07" author="e.World Technology Ltd.">
+<project id="{3554BCCA-7E88-4E52-9661-DF55D75275C9}" file="E:\DevZone\Webs\Servers\Apache2\www\massbuilder\builder_proyect.pmp" name="builder" product="PHPMaker" version="9.1" datetime="2012/12/07 19:16:31" languagefolder="phplang" userlevel="">
+<table id="domains" name="domains" caption="Sites" userlevel="" priv="1"/>
+<table id="entries" name="entries" caption="Entries" userlevel="" priv="1"/>
+<table id="tools_translation" name="tools_translation" caption="Traduciones" userlevel="" priv="1"/>
+<table id="tools_backups" name="tools_backups" caption="Backups" userlevel="" priv="1"/>
+<table id="Test" name="Test" caption="Test" userlevel="" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="" priv="1"/>
+</project></configuration>
